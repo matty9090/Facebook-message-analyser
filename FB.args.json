@@ -1,0 +1,34 @@
+{
+  "FileVersion": 2,
+  "Id": "9cade7c7-ed10-4e7c-9d5f-07685a9ebb40",
+  "Items": [
+    {
+      "Id": "d7c24226-9b9b-4139-b8bb-735a63e6b2a3",
+      "Command": "data/message_1.json"
+    },
+    {
+      "Id": "7cf7b748-e09c-45f7-ba5d-4c4e9ca2f137",
+      "Command": "data/message_2.json"
+    },
+    {
+      "Id": "f4ec01ba-a4a2-47b0-b947-e200edd41f25",
+      "Command": "data/message_3.json"
+    },
+    {
+      "Id": "22509c2f-b0a4-4f91-802e-eab7d2d35620",
+      "Command": "data/message_4.json"
+    },
+    {
+      "Id": "9cad34fa-286a-4851-ae0b-3a61b75d08e1",
+      "Command": "data/message_5.json"
+    },
+    {
+      "Id": "eac87e06-9687-4401-91ef-b717e16b2031",
+      "Command": "data/message_6.json"
+    },
+    {
+      "Id": "2a7eae47-f353-4cd7-a49b-5f1b986a293a",
+      "Command": "data/message_7.json"
+    }
+  ]
+}
